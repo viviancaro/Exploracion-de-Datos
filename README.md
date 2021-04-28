@@ -20,3 +20,5 @@ El objetivo de este proyecto es realizar un primer análisis exploratorio sobre 
 -	Comparación gráfica de la distribución de las propiedades, teniendo en cuenta diferentes aspectos para mejor visualización.
 -	Análisis de otros datos erróneos con respecto a la ubicación geográfica.
 -	Conclusiones del proyecto.
+
+El dataset utilizado en este proyecto corresponde a una muestra de propiedades en venta, publicado en la página de Properati (www.properati.com.ar), en el cual, cada fila es una propiedad en venta.
